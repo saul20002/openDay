@@ -1,0 +1,27 @@
+body{
+  background-image: url(https://arumjournal.com/wp-content/uploads/2021/08/freelance-2.jpg);
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+#cabecera{
+  position: absolute;
+  background-color: black;
+  margin-left: 89%;
+  width: 300px;
+  top: 0;
+  bottom: 0;
+}
+
+#SobreMi{
+  text-align: center;
+  color: aqua;
+}
+
+#CurriculumVitae{
+  width: 300px;
+  height: 400px;
+  display:flex;
+  margin:auto;
+}
